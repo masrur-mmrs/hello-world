@@ -133,5 +133,4 @@ int main()
 	cout << setw(30) << "Items sold: " << Sold << setw(30) << endl;
 	cout << setw(30) << "Items that could'nt reach reserve price: " << NotSold << setw(30) << endl;
 	cout << setw(30) << "Items with no bids: " << NoBid <<setw(30) << endl;
-
 }
