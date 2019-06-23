@@ -1,5 +1,3 @@
 # hello-world
 This contains projects that you can expect from a beginner.
-
-So this is me testing out my first commit.
-I hope it works.
+Litterally absolute beginner. One of these folder contains the tasks for o level 2019 computer science pre-release.
